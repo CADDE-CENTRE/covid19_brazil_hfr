@@ -40,9 +40,36 @@ Imperial makes no representation or warranty about the accuracy or  completeness
 ## System Requirements
 
 - macOS or UNIX, the code was developed on macOS Mojave 10.14.
-- R version  >= 3.6.1 (that s a wild guess based on Nature, mine is 4.0.5)
+- R version  >= 4.0.3
 
-Package requirements are reported in the ``` covid19_brazil_hfr.yml``` file 
+Package requirements are reported in the ``` covid19_brazil_hfr.yml``` file, and can be installed as follows:
+
+```bash
+$ cd covid19_brazil_hfr
+$ conda env create -f covid19_brazil_hfr.yml
+$ source activate covid19_brazil_hfr
+$ export TBB_CXX_TYPE=gcc
+$ export CXXFLAGS+=-fPIE
+```
+
+or alternatively:
+
+```bash
+$ cd covid19_brazil_hfr
+$ conda create --name covid19_brazil_hfr
+$ conda install -c conda-forge r-base r-rcpp r-ggplot2 r-data.table r-viridis r-gtools r-bayesplot r-mglm r-fitdistrplus r-actuar r-abind r-knitr r-rmarkdown r-yaml r-stringi r-codetools r-ggsci  r-bh r-matrix r-inline r-gridextra r-rcppparallel r-loo r-pkgbuild r-withr r-v8
+$ source activate covid19_brazil_hfr
+$ export TBB_CXX_TYPE=gcc
+$ export CXXFLAGS+=-fPIE
+```
+
+For the installation `cmdstanr` package, fire up R and proceed  [as described here](https://mc-stan.org/cmdstanr/articles/cmdstanr.html#installing-cmdstan-1) 
+
+```R
+install.packages("cmdstanr", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+check_cmdstan_toolchain()
+install_cmdstan(cores = 4)
+```
 
 ## Usage
 
