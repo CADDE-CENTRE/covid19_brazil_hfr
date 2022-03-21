@@ -1,0 +1,1163 @@
+data_type,median_sampling_date,week,location,n_positive,n_sampled
+random_sample,27/05/2020,27/05/2020,manaus,0,2
+random_sample,05/11/2020,02/11/2020,manaus,0,9
+random_sample,11/11/2020,09/11/2020,manaus,0,2
+random_sample,16/11/2020,16/11/2020,manaus,0,4
+random_sample,04/12/2020,30/11/2020,manaus,1,2
+random_sample,09/12/2020,07/12/2020,manaus,1,7
+random_sample,18/12/2020,14/12/2020,manaus,7,24
+random_sample,23/12/2020,21/12/2020,manaus,20,37
+random_sample,28/12/2020,28/12/2020,manaus,8,14
+random_sample,04/01/2021,04/01/2021,manaus,40,46
+random_sample,NA,30/11/2020,porto alegre,0,8
+random_sample,NA,07/12/2020,porto alegre,0,10
+random_sample,NA,14/12/2020,porto alegre,0,8
+random_sample,NA,21/12/2020,porto alegre,0,8
+random_sample,NA,28/12/2020,porto alegre,0,10
+random_sample,NA,04/01/2021,porto alegre,0,14
+random_sample,NA,11/01/2021,porto alegre,0,6
+random_sample,NA,18/01/2021,porto alegre,0,10
+random_sample,NA,25/01/2021,porto alegre,4,16
+random_sample,NA,01/02/2021,porto alegre,7,20
+random_sample,NA,08/02/2021,porto alegre,11,21
+random_sample,NA,15/02/2021,porto alegre,11,20
+random_sample,NA,22/02/2021,porto alegre,14,21
+random_sample,NA,01/03/2021,porto alegre,16,20
+random_sample,NA,08/03/2021,porto alegre,17,19
+random_sample,NA,15/03/2021,porto alegre,15,17
+random_sample,NA,22/03/2021,porto alegre,14,17
+random_sample,NA,29/03/2021,porto alegre,10,10
+random_sample,NA,06/01/2021,belo horizonte,0,2
+random_sample,NA,13/01/2021,belo horizonte,0,1
+random_sample,NA,20/01/2021,belo horizonte,0,2
+random_sample,NA,27/01/2021,belo horizonte,0,3
+random_sample,NA,03/02/2021,belo horizonte,0,1
+random_sample,NA,10/02/2021,belo horizonte,0,3
+random_sample,NA,17/02/2021,belo horizonte,0,1
+random_sample,NA,24/02/2021,belo horizonte,11,37
+random_sample,NA,03/03/2021,belo horizonte,16,24
+random_sample,NA,10/03/2021,belo horizonte,3,4
+GISAID_alfonso_lutz,NA,01/11/2020,sao paulo city,0,1
+GISAID_alfonso_lutz,NA,22/11/2020,sao paulo city,0,1
+GISAID_alfonso_lutz,NA,20/12/2020,sao paulo city,0,4
+GISAID_alfonso_lutz,NA,27/12/2020,sao paulo city,0,2
+GISAID_alfonso_lutz,NA,03/01/2021,sao paulo city,1,3
+GISAID_alfonso_lutz,NA,10/01/2021,sao paulo city,5,7
+GISAID_alfonso_lutz,NA,17/01/2021,sao paulo city,2,7
+GISAID_alfonso_lutz,NA,24/01/2021,sao paulo city,1,3
+GISAID_alfonso_lutz,NA,31/01/2021,sao paulo city,0,1
+GISAID_alfonso_lutz,NA,07/02/2021,sao paulo city,1,2
+GISAID_alfonso_lutz,NA,14/02/2021,sao paulo city,10,14
+GISAID_alfonso_lutz,NA,21/02/2021,sao paulo city,9,10
+GISAID_alfonso_lutz,NA,28/02/2021,sao paulo city,5,5
+GISAID_alfonso_lutz,NA,07/03/2021,sao paulo city,6,6
+GISAID_alfonso_lutz,NA,14/03/2021,sao paulo city,2,2
+GISAID_alfonso_lutz,NA,21/03/2021,sao paulo city,6,7
+GISAID_alfonso_lutz,NA,28/03/2021,sao paulo city,1,1
+genomica_fiocruz,NA,02/11/2020,acre,0,0
+genomica_fiocruz,NA,09/11/2020,acre,0,0
+genomica_fiocruz,NA,16/11/2020,acre,0,0
+genomica_fiocruz,NA,23/11/2020,acre,0,0
+genomica_fiocruz,NA,30/11/2020,acre,0,1
+genomica_fiocruz,NA,02/11/2020,amazonas,0,8
+genomica_fiocruz,NA,09/11/2020,amazonas,0,8
+genomica_fiocruz,NA,16/11/2020,amazonas,0,9
+genomica_fiocruz,NA,23/11/2020,amazonas,0,9
+genomica_fiocruz,NA,30/11/2020,amazonas,0,9
+genomica_fiocruz,NA,02/11/2020,amapa,0,1
+genomica_fiocruz,NA,09/11/2020,amapa,0,1
+genomica_fiocruz,NA,16/11/2020,amapa,0,1
+genomica_fiocruz,NA,23/11/2020,amapa,0,1
+genomica_fiocruz,NA,30/11/2020,amapa,0,1
+genomica_fiocruz,NA,02/11/2020,parana,0,3
+genomica_fiocruz,NA,09/11/2020,parana,0,3
+genomica_fiocruz,NA,16/11/2020,parana,0,3
+genomica_fiocruz,NA,23/11/2020,parana,0,3
+genomica_fiocruz,NA,30/11/2020,parana,0,4
+genomica_fiocruz,NA,02/11/2020,rondonia,0,0
+genomica_fiocruz,NA,09/11/2020,rondonia,0,0
+genomica_fiocruz,NA,16/11/2020,rondonia,0,0
+genomica_fiocruz,NA,23/11/2020,rondonia,0,0
+genomica_fiocruz,NA,30/11/2020,rondonia,0,0
+genomica_fiocruz,NA,02/11/2020,roraima,0,0
+genomica_fiocruz,NA,09/11/2020,roraima,0,0
+genomica_fiocruz,NA,16/11/2020,roraima,0,0
+genomica_fiocruz,NA,23/11/2020,roraima,0,0
+genomica_fiocruz,NA,30/11/2020,roraima,0,1
+genomica_fiocruz,NA,02/11/2020,tocantins,0,0
+genomica_fiocruz,NA,09/11/2020,tocantins,0,0
+genomica_fiocruz,NA,16/11/2020,tocantins,0,0
+genomica_fiocruz,NA,23/11/2020,tocantins,0,0
+genomica_fiocruz,NA,30/11/2020,tocantins,0,0
+genomica_fiocruz,NA,02/11/2020,alagoas,0,1
+genomica_fiocruz,NA,09/11/2020,alagoas,0,1
+genomica_fiocruz,NA,16/11/2020,alagoas,0,1
+genomica_fiocruz,NA,23/11/2020,alagoas,0,1
+genomica_fiocruz,NA,30/11/2020,alagoas,0,2
+genomica_fiocruz,NA,02/11/2020,bahia,0,1
+genomica_fiocruz,NA,09/11/2020,bahia,0,1
+genomica_fiocruz,NA,16/11/2020,bahia,0,2
+genomica_fiocruz,NA,23/11/2020,bahia,0,2
+genomica_fiocruz,NA,30/11/2020,bahia,0,2
+genomica_fiocruz,NA,02/11/2020,ceara,0,0
+genomica_fiocruz,NA,09/11/2020,ceara,0,0
+genomica_fiocruz,NA,16/11/2020,ceara,0,0
+genomica_fiocruz,NA,23/11/2020,ceara,0,0
+genomica_fiocruz,NA,30/11/2020,ceara,0,0
+genomica_fiocruz,NA,02/11/2020,maranhao,0,1
+genomica_fiocruz,NA,09/11/2020,maranhao,0,1
+genomica_fiocruz,NA,16/11/2020,maranhao,0,1
+genomica_fiocruz,NA,23/11/2020,maranhao,0,1
+genomica_fiocruz,NA,30/11/2020,maranhao,0,1
+genomica_fiocruz,NA,02/11/2020,paraiba,0,5
+genomica_fiocruz,NA,09/11/2020,paraiba,0,5
+genomica_fiocruz,NA,16/11/2020,paraiba,0,6
+genomica_fiocruz,NA,23/11/2020,paraiba,0,6
+genomica_fiocruz,NA,30/11/2020,paraiba,0,6
+genomica_fiocruz,NA,02/11/2020,pernambuco,0,0
+genomica_fiocruz,NA,09/11/2020,pernambuco,0,0
+genomica_fiocruz,NA,16/11/2020,pernambuco,0,0
+genomica_fiocruz,NA,23/11/2020,pernambuco,0,0
+genomica_fiocruz,NA,30/11/2020,pernambuco,0,1
+genomica_fiocruz,NA,02/11/2020,piaui,0,0
+genomica_fiocruz,NA,09/11/2020,piaui,0,1
+genomica_fiocruz,NA,16/11/2020,piaui,0,1
+genomica_fiocruz,NA,23/11/2020,piaui,0,1
+genomica_fiocruz,NA,30/11/2020,piaui,0,1
+genomica_fiocruz,NA,02/11/2020,rio grande do norte,0,2
+genomica_fiocruz,NA,09/11/2020,rio grande do norte,0,3
+genomica_fiocruz,NA,16/11/2020,rio grande do norte,0,3
+genomica_fiocruz,NA,23/11/2020,rio grande do norte,0,3
+genomica_fiocruz,NA,30/11/2020,rio grande do norte,0,3
+genomica_fiocruz,NA,02/11/2020,sergipe,0,0
+genomica_fiocruz,NA,09/11/2020,sergipe,0,0
+genomica_fiocruz,NA,16/11/2020,sergipe,0,0
+genomica_fiocruz,NA,23/11/2020,sergipe,0,0
+genomica_fiocruz,NA,30/11/2020,sergipe,0,0
+genomica_fiocruz,NA,02/11/2020,distrito federal,0,0
+genomica_fiocruz,NA,09/11/2020,distrito federal,0,1
+genomica_fiocruz,NA,16/11/2020,distrito federal,0,1
+genomica_fiocruz,NA,23/11/2020,distrito federal,0,1
+genomica_fiocruz,NA,30/11/2020,distrito federal,0,1
+genomica_fiocruz,NA,02/11/2020,goias,0,0
+genomica_fiocruz,NA,09/11/2020,goias,0,0
+genomica_fiocruz,NA,16/11/2020,goias,0,0
+genomica_fiocruz,NA,23/11/2020,goias,0,0
+genomica_fiocruz,NA,30/11/2020,goias,0,0
+genomica_fiocruz,NA,02/11/2020,mato grosso do sul,0,0
+genomica_fiocruz,NA,09/11/2020,mato grosso do sul,0,0
+genomica_fiocruz,NA,16/11/2020,mato grosso do sul,0,0
+genomica_fiocruz,NA,23/11/2020,mato grosso do sul,0,0
+genomica_fiocruz,NA,30/11/2020,mato grosso do sul,0,1
+genomica_fiocruz,NA,02/11/2020,mato grosso,0,0
+genomica_fiocruz,NA,09/11/2020,mato grosso,0,0
+genomica_fiocruz,NA,16/11/2020,mato grosso,0,0
+genomica_fiocruz,NA,23/11/2020,mato grosso,0,0
+genomica_fiocruz,NA,30/11/2020,mato grosso,0,1
+genomica_fiocruz,NA,02/11/2020,espirito santo,0,1
+genomica_fiocruz,NA,09/11/2020,espirito santo,0,2
+genomica_fiocruz,NA,16/11/2020,espirito santo,0,2
+genomica_fiocruz,NA,23/11/2020,espirito santo,0,2
+genomica_fiocruz,NA,30/11/2020,espirito santo,0,2
+genomica_fiocruz,NA,02/11/2020,minas gerais,0,3
+genomica_fiocruz,NA,09/11/2020,minas gerais,0,4
+genomica_fiocruz,NA,16/11/2020,minas gerais,0,4
+genomica_fiocruz,NA,23/11/2020,minas gerais,0,4
+genomica_fiocruz,NA,30/11/2020,minas gerais,0,4
+genomica_fiocruz,NA,02/11/2020,rio de janeiro,0,11
+genomica_fiocruz,NA,09/11/2020,rio de janeiro,0,11
+genomica_fiocruz,NA,16/11/2020,rio de janeiro,0,11
+genomica_fiocruz,NA,23/11/2020,rio de janeiro,0,11
+genomica_fiocruz,NA,30/11/2020,rio de janeiro,0,12
+genomica_fiocruz,NA,02/11/2020,sau paulo state,0,19
+genomica_fiocruz,NA,09/11/2020,sau paulo state,0,19
+genomica_fiocruz,NA,16/11/2020,sau paulo state,0,19
+genomica_fiocruz,NA,23/11/2020,sau paulo state,0,19
+genomica_fiocruz,NA,30/11/2020,sau paulo state,0,20
+genomica_fiocruz,NA,02/11/2020,parana,0,6
+genomica_fiocruz,NA,09/11/2020,parana,0,6
+genomica_fiocruz,NA,16/11/2020,parana,0,6
+genomica_fiocruz,NA,23/11/2020,parana,0,7
+genomica_fiocruz,NA,30/11/2020,parana,0,7
+genomica_fiocruz,NA,02/11/2020,rio grande do sul,0,35
+genomica_fiocruz,NA,09/11/2020,rio grande do sul,0,36
+genomica_fiocruz,NA,16/11/2020,rio grande do sul,0,36
+genomica_fiocruz,NA,23/11/2020,rio grande do sul,1,36
+genomica_fiocruz,NA,30/11/2020,rio grande do sul,1,36
+genomica_fiocruz,NA,02/11/2020,santa catarina,0,0
+genomica_fiocruz,NA,09/11/2020,santa catarina,0,0
+genomica_fiocruz,NA,16/11/2020,santa catarina,0,1
+genomica_fiocruz,NA,23/11/2020,santa catarina,0,1
+genomica_fiocruz,NA,30/11/2020,santa catarina,0,1
+genomica_fiocruz,NA,07/12/2020,acre,0,0
+genomica_fiocruz,NA,14/12/2020,acre,0,0
+genomica_fiocruz,NA,21/12/2020,acre,0,0
+genomica_fiocruz,NA,28/12/2020,acre,0,0
+genomica_fiocruz,NA,07/12/2020,amazonas,22,56
+genomica_fiocruz,NA,14/12/2020,amazonas,22,56
+genomica_fiocruz,NA,21/12/2020,amazonas,22,56
+genomica_fiocruz,NA,28/12/2020,amazonas,23,57
+genomica_fiocruz,NA,07/12/2020,amapa,0,4
+genomica_fiocruz,NA,14/12/2020,amapa,0,4
+genomica_fiocruz,NA,21/12/2020,amapa,0,4
+genomica_fiocruz,NA,28/12/2020,amapa,0,5
+genomica_fiocruz,NA,07/12/2020,parana,0,5
+genomica_fiocruz,NA,14/12/2020,parana,0,5
+genomica_fiocruz,NA,21/12/2020,parana,0,5
+genomica_fiocruz,NA,28/12/2020,parana,0,5
+genomica_fiocruz,NA,07/12/2020,rondonia,0,0
+genomica_fiocruz,NA,14/12/2020,rondonia,0,0
+genomica_fiocruz,NA,21/12/2020,rondonia,0,0
+genomica_fiocruz,NA,28/12/2020,rondonia,0,0
+genomica_fiocruz,NA,07/12/2020,roraima,0,0
+genomica_fiocruz,NA,14/12/2020,roraima,0,0
+genomica_fiocruz,NA,21/12/2020,roraima,0,0
+genomica_fiocruz,NA,28/12/2020,roraima,0,0
+genomica_fiocruz,NA,07/12/2020,tocantins,0,0
+genomica_fiocruz,NA,14/12/2020,tocantins,0,0
+genomica_fiocruz,NA,21/12/2020,tocantins,0,0
+genomica_fiocruz,NA,28/12/2020,tocantins,0,1
+genomica_fiocruz,NA,07/12/2020,alagoas,0,3
+genomica_fiocruz,NA,14/12/2020,alagoas,0,3
+genomica_fiocruz,NA,21/12/2020,alagoas,0,3
+genomica_fiocruz,NA,28/12/2020,alagoas,0,3
+genomica_fiocruz,NA,07/12/2020,bahia,1,3
+genomica_fiocruz,NA,14/12/2020,bahia,1,4
+genomica_fiocruz,NA,21/12/2020,bahia,1,4
+genomica_fiocruz,NA,28/12/2020,bahia,2,4
+genomica_fiocruz,NA,07/12/2020,ceara,0,0
+genomica_fiocruz,NA,14/12/2020,ceara,0,1
+genomica_fiocruz,NA,21/12/2020,ceara,0,1
+genomica_fiocruz,NA,28/12/2020,ceara,0,1
+genomica_fiocruz,NA,07/12/2020,maranhao,0,3
+genomica_fiocruz,NA,14/12/2020,maranhao,0,3
+genomica_fiocruz,NA,21/12/2020,maranhao,0,3
+genomica_fiocruz,NA,28/12/2020,maranhao,0,4
+genomica_fiocruz,NA,07/12/2020,paraiba,0,7
+genomica_fiocruz,NA,14/12/2020,paraiba,0,8
+genomica_fiocruz,NA,21/12/2020,paraiba,0,8
+genomica_fiocruz,NA,28/12/2020,paraiba,0,8
+genomica_fiocruz,NA,07/12/2020,pernambuco,0,1
+genomica_fiocruz,NA,14/12/2020,pernambuco,0,1
+genomica_fiocruz,NA,21/12/2020,pernambuco,0,1
+genomica_fiocruz,NA,28/12/2020,pernambuco,0,1
+genomica_fiocruz,NA,07/12/2020,piaui,0,0
+genomica_fiocruz,NA,14/12/2020,piaui,0,0
+genomica_fiocruz,NA,21/12/2020,piaui,0,0
+genomica_fiocruz,NA,28/12/2020,piaui,0,0
+genomica_fiocruz,NA,07/12/2020,rio grande do norte,0,5
+genomica_fiocruz,NA,14/12/2020,rio grande do norte,0,5
+genomica_fiocruz,NA,21/12/2020,rio grande do norte,0,5
+genomica_fiocruz,NA,28/12/2020,rio grande do norte,0,5
+genomica_fiocruz,NA,07/12/2020,sergipe,0,0
+genomica_fiocruz,NA,14/12/2020,sergipe,0,0
+genomica_fiocruz,NA,21/12/2020,sergipe,0,0
+genomica_fiocruz,NA,28/12/2020,sergipe,0,0
+genomica_fiocruz,NA,07/12/2020,distrito federal,0,0
+genomica_fiocruz,NA,14/12/2020,distrito federal,0,1
+genomica_fiocruz,NA,21/12/2020,distrito federal,0,1
+genomica_fiocruz,NA,28/12/2020,distrito federal,0,1
+genomica_fiocruz,NA,07/12/2020,goias,0,12
+genomica_fiocruz,NA,14/12/2020,goias,0,12
+genomica_fiocruz,NA,21/12/2020,goias,0,12
+genomica_fiocruz,NA,28/12/2020,goias,0,13
+genomica_fiocruz,NA,07/12/2020,mato grosso do sul,0,2
+genomica_fiocruz,NA,14/12/2020,mato grosso do sul,0,3
+genomica_fiocruz,NA,21/12/2020,mato grosso do sul,0,3
+genomica_fiocruz,NA,28/12/2020,mato grosso do sul,0,3
+genomica_fiocruz,NA,07/12/2020,mato grosso,0,2
+genomica_fiocruz,NA,14/12/2020,mato grosso,0,2
+genomica_fiocruz,NA,21/12/2020,mato grosso,0,2
+genomica_fiocruz,NA,28/12/2020,mato grosso,0,2
+genomica_fiocruz,NA,07/12/2020,espirito santo,0,3
+genomica_fiocruz,NA,14/12/2020,espirito santo,0,3
+genomica_fiocruz,NA,21/12/2020,espirito santo,0,4
+genomica_fiocruz,NA,28/12/2020,espirito santo,0,4
+genomica_fiocruz,NA,07/12/2020,minas gerais,0,8
+genomica_fiocruz,NA,14/12/2020,minas gerais,0,8
+genomica_fiocruz,NA,21/12/2020,minas gerais,0,8
+genomica_fiocruz,NA,28/12/2020,minas gerais,0,8
+genomica_fiocruz,NA,07/12/2020,rio de janeiro,0,6
+genomica_fiocruz,NA,14/12/2020,rio de janeiro,0,6
+genomica_fiocruz,NA,21/12/2020,rio de janeiro,0,7
+genomica_fiocruz,NA,28/12/2020,rio de janeiro,0,7
+genomica_fiocruz,NA,07/12/2020,sau paulo state,0,19
+genomica_fiocruz,NA,14/12/2020,sau paulo state,0,19
+genomica_fiocruz,NA,21/12/2020,sau paulo state,0,19
+genomica_fiocruz,NA,28/12/2020,sau paulo state,0,19
+genomica_fiocruz,NA,07/12/2020,parana,0,8
+genomica_fiocruz,NA,14/12/2020,parana,0,9
+genomica_fiocruz,NA,21/12/2020,parana,0,9
+genomica_fiocruz,NA,28/12/2020,parana,0,9
+genomica_fiocruz,NA,07/12/2020,rio grande do sul,0,7
+genomica_fiocruz,NA,14/12/2020,rio grande do sul,0,7
+genomica_fiocruz,NA,21/12/2020,rio grande do sul,0,8
+genomica_fiocruz,NA,28/12/2020,rio grande do sul,0,8
+genomica_fiocruz,NA,07/12/2020,santa catarina,0,0
+genomica_fiocruz,NA,14/12/2020,santa catarina,0,0
+genomica_fiocruz,NA,21/12/2020,santa catarina,0,1
+genomica_fiocruz,NA,28/12/2020,santa catarina,0,1
+genomica_fiocruz,NA,04/01/2021,acre,0,0
+genomica_fiocruz,NA,11/01/2021,acre,0,0
+genomica_fiocruz,NA,18/01/2021,acre,1,1
+genomica_fiocruz,NA,25/01/2021,acre,1,1
+genomica_fiocruz,NA,04/01/2021,amazonas,27,31
+genomica_fiocruz,NA,11/01/2021,amazonas,27,31
+genomica_fiocruz,NA,18/01/2021,amazonas,27,32
+genomica_fiocruz,NA,25/01/2021,amazonas,27,32
+genomica_fiocruz,NA,04/01/2021,amapa,1,6
+genomica_fiocruz,NA,11/01/2021,amapa,1,6
+genomica_fiocruz,NA,18/01/2021,amapa,1,7
+genomica_fiocruz,NA,25/01/2021,amapa,2,7
+genomica_fiocruz,NA,04/01/2021,parana,1,5
+genomica_fiocruz,NA,11/01/2021,parana,1,6
+genomica_fiocruz,NA,18/01/2021,parana,1,6
+genomica_fiocruz,NA,25/01/2021,parana,2,6
+genomica_fiocruz,NA,04/01/2021,rondonia,1,4
+genomica_fiocruz,NA,11/01/2021,rondonia,1,5
+genomica_fiocruz,NA,18/01/2021,rondonia,1,5
+genomica_fiocruz,NA,25/01/2021,rondonia,1,5
+genomica_fiocruz,NA,04/01/2021,roraima,3,3
+genomica_fiocruz,NA,11/01/2021,roraima,3,3
+genomica_fiocruz,NA,18/01/2021,roraima,3,3
+genomica_fiocruz,NA,25/01/2021,roraima,3,4
+genomica_fiocruz,NA,04/01/2021,tocantins,0,0
+genomica_fiocruz,NA,11/01/2021,tocantins,0,0
+genomica_fiocruz,NA,18/01/2021,tocantins,0,0
+genomica_fiocruz,NA,25/01/2021,tocantins,1,1
+genomica_fiocruz,NA,04/01/2021,alagoas,0,5
+genomica_fiocruz,NA,11/01/2021,alagoas,1,6
+genomica_fiocruz,NA,18/01/2021,alagoas,1,6
+genomica_fiocruz,NA,25/01/2021,alagoas,1,6
+genomica_fiocruz,NA,04/01/2021,bahia,3,19
+genomica_fiocruz,NA,11/01/2021,bahia,3,19
+genomica_fiocruz,NA,18/01/2021,bahia,3,20
+genomica_fiocruz,NA,25/01/2021,bahia,4,20
+genomica_fiocruz,NA,04/01/2021,ceara,0,5
+genomica_fiocruz,NA,11/01/2021,ceara,0,5
+genomica_fiocruz,NA,18/01/2021,ceara,1,5
+genomica_fiocruz,NA,25/01/2021,ceara,1,5
+genomica_fiocruz,NA,04/01/2021,maranhao,2,12
+genomica_fiocruz,NA,11/01/2021,maranhao,2,12
+genomica_fiocruz,NA,18/01/2021,maranhao,2,12
+genomica_fiocruz,NA,25/01/2021,maranhao,2,13
+genomica_fiocruz,NA,04/01/2021,paraiba,1,10
+genomica_fiocruz,NA,11/01/2021,paraiba,1,10
+genomica_fiocruz,NA,18/01/2021,paraiba,1,10
+genomica_fiocruz,NA,25/01/2021,paraiba,2,11
+genomica_fiocruz,NA,04/01/2021,pernambuco,0,2
+genomica_fiocruz,NA,11/01/2021,pernambuco,0,2
+genomica_fiocruz,NA,18/01/2021,pernambuco,0,3
+genomica_fiocruz,NA,25/01/2021,pernambuco,0,3
+genomica_fiocruz,NA,04/01/2021,piaui,0,0
+genomica_fiocruz,NA,11/01/2021,piaui,0,0
+genomica_fiocruz,NA,18/01/2021,piaui,0,0
+genomica_fiocruz,NA,25/01/2021,piaui,0,1
+genomica_fiocruz,NA,04/01/2021,rio grande do norte,3,10
+genomica_fiocruz,NA,11/01/2021,rio grande do norte,3,11
+genomica_fiocruz,NA,18/01/2021,rio grande do norte,3,11
+genomica_fiocruz,NA,25/01/2021,rio grande do norte,3,11
+genomica_fiocruz,NA,04/01/2021,sergipe,0,2
+genomica_fiocruz,NA,11/01/2021,sergipe,0,3
+genomica_fiocruz,NA,18/01/2021,sergipe,0,3
+genomica_fiocruz,NA,25/01/2021,sergipe,1,3
+genomica_fiocruz,NA,04/01/2021,distrito federal,0,0
+genomica_fiocruz,NA,11/01/2021,distrito federal,0,0
+genomica_fiocruz,NA,18/01/2021,distrito federal,0,1
+genomica_fiocruz,NA,25/01/2021,distrito federal,0,1
+genomica_fiocruz,NA,04/01/2021,goias,10,33
+genomica_fiocruz,NA,11/01/2021,goias,10,33
+genomica_fiocruz,NA,18/01/2021,goias,10,33
+genomica_fiocruz,NA,25/01/2021,goias,10,34
+genomica_fiocruz,NA,04/01/2021,mato grosso do sul,0,5
+genomica_fiocruz,NA,11/01/2021,mato grosso do sul,0,5
+genomica_fiocruz,NA,18/01/2021,mato grosso do sul,0,5
+genomica_fiocruz,NA,25/01/2021,mato grosso do sul,0,5
+genomica_fiocruz,NA,04/01/2021,mato grosso,0,1
+genomica_fiocruz,NA,11/01/2021,mato grosso,0,1
+genomica_fiocruz,NA,18/01/2021,mato grosso,0,1
+genomica_fiocruz,NA,25/01/2021,mato grosso,0,1
+genomica_fiocruz,NA,04/01/2021,espirito santo,0,3
+genomica_fiocruz,NA,11/01/2021,espirito santo,0,4
+genomica_fiocruz,NA,18/01/2021,espirito santo,0,4
+genomica_fiocruz,NA,25/01/2021,espirito santo,1,4
+genomica_fiocruz,NA,04/01/2021,minas gerais,0,9
+genomica_fiocruz,NA,11/01/2021,minas gerais,0,9
+genomica_fiocruz,NA,18/01/2021,minas gerais,0,9
+genomica_fiocruz,NA,25/01/2021,minas gerais,0,10
+genomica_fiocruz,NA,04/01/2021,rio de janeiro,0,18
+genomica_fiocruz,NA,11/01/2021,rio de janeiro,1,18
+genomica_fiocruz,NA,18/01/2021,rio de janeiro,1,18
+genomica_fiocruz,NA,25/01/2021,rio de janeiro,1,18
+genomica_fiocruz,NA,04/01/2021,sau paulo state,11,83
+genomica_fiocruz,NA,11/01/2021,sau paulo state,11,83
+genomica_fiocruz,NA,18/01/2021,sau paulo state,12,84
+genomica_fiocruz,NA,25/01/2021,sau paulo state,12,84
+genomica_fiocruz,NA,04/01/2021,parana,0,5
+genomica_fiocruz,NA,11/01/2021,parana,1,5
+genomica_fiocruz,NA,18/01/2021,parana,1,5
+genomica_fiocruz,NA,25/01/2021,parana,1,5
+genomica_fiocruz,NA,04/01/2021,rio grande do sul,1,10
+genomica_fiocruz,NA,11/01/2021,rio grande do sul,1,10
+genomica_fiocruz,NA,18/01/2021,rio grande do sul,1,10
+genomica_fiocruz,NA,25/01/2021,rio grande do sul,1,11
+genomica_fiocruz,NA,04/01/2021,santa catarina,3,7
+genomica_fiocruz,NA,11/01/2021,santa catarina,3,8
+genomica_fiocruz,NA,18/01/2021,santa catarina,3,8
+genomica_fiocruz,NA,25/01/2021,santa catarina,4,8
+genomica_fiocruz,NA,01/02/2021,acre,0,0
+genomica_fiocruz,NA,08/02/2021,acre,0,0
+genomica_fiocruz,NA,15/02/2021,acre,0,0
+genomica_fiocruz,NA,22/02/2021,acre,0,0
+genomica_fiocruz,NA,01/02/2021,amazonas,1,1
+genomica_fiocruz,NA,08/02/2021,amazonas,1,1
+genomica_fiocruz,NA,15/02/2021,amazonas,1,1
+genomica_fiocruz,NA,22/02/2021,amazonas,1,1
+genomica_fiocruz,NA,01/02/2021,amapa,2,5
+genomica_fiocruz,NA,08/02/2021,amapa,3,5
+genomica_fiocruz,NA,15/02/2021,amapa,3,5
+genomica_fiocruz,NA,22/02/2021,amapa,3,6
+genomica_fiocruz,NA,01/02/2021,parana,2,2
+genomica_fiocruz,NA,08/02/2021,parana,2,3
+genomica_fiocruz,NA,15/02/2021,parana,2,3
+genomica_fiocruz,NA,22/02/2021,parana,2,3
+genomica_fiocruz,NA,01/02/2021,rondonia,1,1
+genomica_fiocruz,NA,08/02/2021,rondonia,1,1
+genomica_fiocruz,NA,15/02/2021,rondonia,1,1
+genomica_fiocruz,NA,22/02/2021,rondonia,1,2
+genomica_fiocruz,NA,01/02/2021,roraima,3,3
+genomica_fiocruz,NA,08/02/2021,roraima,4,4
+genomica_fiocruz,NA,15/02/2021,roraima,4,4
+genomica_fiocruz,NA,22/02/2021,roraima,4,4
+genomica_fiocruz,NA,01/02/2021,tocantins,0,2
+genomica_fiocruz,NA,08/02/2021,tocantins,0,3
+genomica_fiocruz,NA,15/02/2021,tocantins,1,3
+genomica_fiocruz,NA,22/02/2021,tocantins,1,3
+genomica_fiocruz,NA,01/02/2021,alagoas,1,2
+genomica_fiocruz,NA,08/02/2021,alagoas,1,2
+genomica_fiocruz,NA,15/02/2021,alagoas,1,2
+genomica_fiocruz,NA,22/02/2021,alagoas,2,2
+genomica_fiocruz,NA,01/02/2021,bahia,9,26
+genomica_fiocruz,NA,08/02/2021,bahia,9,26
+genomica_fiocruz,NA,15/02/2021,bahia,9,26
+genomica_fiocruz,NA,22/02/2021,bahia,10,26
+genomica_fiocruz,NA,01/02/2021,ceara,2,2
+genomica_fiocruz,NA,08/02/2021,ceara,2,2
+genomica_fiocruz,NA,15/02/2021,ceara,2,3
+genomica_fiocruz,NA,22/02/2021,ceara,3,3
+genomica_fiocruz,NA,01/02/2021,maranhao,7,12
+genomica_fiocruz,NA,08/02/2021,maranhao,7,12
+genomica_fiocruz,NA,15/02/2021,maranhao,7,13
+genomica_fiocruz,NA,22/02/2021,maranhao,7,13
+genomica_fiocruz,NA,01/02/2021,paraiba,3,6
+genomica_fiocruz,NA,08/02/2021,paraiba,4,7
+genomica_fiocruz,NA,15/02/2021,paraiba,4,7
+genomica_fiocruz,NA,22/02/2021,paraiba,4,7
+genomica_fiocruz,NA,01/02/2021,pernambuco,2,2
+genomica_fiocruz,NA,08/02/2021,pernambuco,2,2
+genomica_fiocruz,NA,15/02/2021,pernambuco,2,3
+genomica_fiocruz,NA,22/02/2021,pernambuco,3,3
+genomica_fiocruz,NA,01/02/2021,piaui,0,2
+genomica_fiocruz,NA,08/02/2021,piaui,0,2
+genomica_fiocruz,NA,15/02/2021,piaui,1,2
+genomica_fiocruz,NA,22/02/2021,piaui,1,2
+genomica_fiocruz,NA,01/02/2021,rio grande do norte,5,10
+genomica_fiocruz,NA,08/02/2021,rio grande do norte,5,10
+genomica_fiocruz,NA,15/02/2021,rio grande do norte,5,10
+genomica_fiocruz,NA,22/02/2021,rio grande do norte,6,10
+genomica_fiocruz,NA,01/02/2021,sergipe,15,20
+genomica_fiocruz,NA,08/02/2021,sergipe,15,20
+genomica_fiocruz,NA,15/02/2021,sergipe,15,20
+genomica_fiocruz,NA,22/02/2021,sergipe,15,20
+genomica_fiocruz,NA,01/02/2021,distrito federal,0,0
+genomica_fiocruz,NA,08/02/2021,distrito federal,0,0
+genomica_fiocruz,NA,15/02/2021,distrito federal,0,0
+genomica_fiocruz,NA,22/02/2021,distrito federal,0,1
+genomica_fiocruz,NA,01/02/2021,goias,28,42
+genomica_fiocruz,NA,08/02/2021,goias,28,42
+genomica_fiocruz,NA,15/02/2021,goias,29,42
+genomica_fiocruz,NA,22/02/2021,goias,29,43
+genomica_fiocruz,NA,01/02/2021,mato grosso do sul,0,1
+genomica_fiocruz,NA,08/02/2021,mato grosso do sul,0,1
+genomica_fiocruz,NA,15/02/2021,mato grosso do sul,0,2
+genomica_fiocruz,NA,22/02/2021,mato grosso do sul,1,2
+genomica_fiocruz,NA,01/02/2021,mato grosso,0,0
+genomica_fiocruz,NA,08/02/2021,mato grosso,0,0
+genomica_fiocruz,NA,15/02/2021,mato grosso,0,0
+genomica_fiocruz,NA,22/02/2021,mato grosso,0,0
+genomica_fiocruz,NA,01/02/2021,espirito santo,0,3
+genomica_fiocruz,NA,08/02/2021,espirito santo,0,3
+genomica_fiocruz,NA,15/02/2021,espirito santo,1,3
+genomica_fiocruz,NA,22/02/2021,espirito santo,1,4
+genomica_fiocruz,NA,01/02/2021,minas gerais,4,13
+genomica_fiocruz,NA,08/02/2021,minas gerais,4,13
+genomica_fiocruz,NA,15/02/2021,minas gerais,4,13
+genomica_fiocruz,NA,22/02/2021,minas gerais,4,14
+genomica_fiocruz,NA,01/02/2021,rio de janeiro,2,11
+genomica_fiocruz,NA,08/02/2021,rio de janeiro,2,11
+genomica_fiocruz,NA,15/02/2021,rio de janeiro,2,12
+genomica_fiocruz,NA,22/02/2021,rio de janeiro,3,12
+genomica_fiocruz,NA,01/02/2021,sau paulo state,50,129
+genomica_fiocruz,NA,08/02/2021,sau paulo state,50,130
+genomica_fiocruz,NA,15/02/2021,sau paulo state,50,130
+genomica_fiocruz,NA,22/02/2021,sau paulo state,50,130
+genomica_fiocruz,NA,01/02/2021,parana,2,4
+genomica_fiocruz,NA,08/02/2021,parana,2,4
+genomica_fiocruz,NA,15/02/2021,parana,3,4
+genomica_fiocruz,NA,22/02/2021,parana,3,5
+genomica_fiocruz,NA,01/02/2021,rio grande do sul,13,20
+genomica_fiocruz,NA,08/02/2021,rio grande do sul,13,20
+genomica_fiocruz,NA,15/02/2021,rio grande do sul,14,21
+genomica_fiocruz,NA,22/02/2021,rio grande do sul,14,21
+genomica_fiocruz,NA,01/02/2021,santa catarina,9,11
+genomica_fiocruz,NA,08/02/2021,santa catarina,10,12
+genomica_fiocruz,NA,15/02/2021,santa catarina,10,12
+genomica_fiocruz,NA,22/02/2021,santa catarina,10,12
+genomica_fiocruz,NA,01/03/2021,acre,0,0
+genomica_fiocruz,NA,08/03/2021,acre,0,0
+genomica_fiocruz,NA,15/03/2021,acre,0,0
+genomica_fiocruz,NA,22/03/2021,acre,0,0
+genomica_fiocruz,NA,29/03/2021,acre,0,0
+genomica_fiocruz,NA,01/03/2021,amazonas,1,1
+genomica_fiocruz,NA,08/03/2021,amazonas,1,1
+genomica_fiocruz,NA,15/03/2021,amazonas,1,1
+genomica_fiocruz,NA,22/03/2021,amazonas,1,1
+genomica_fiocruz,NA,29/03/2021,amazonas,1,1
+genomica_fiocruz,NA,01/03/2021,amapa,1,1
+genomica_fiocruz,NA,08/03/2021,amapa,1,1
+genomica_fiocruz,NA,15/03/2021,amapa,1,1
+genomica_fiocruz,NA,22/03/2021,amapa,2,2
+genomica_fiocruz,NA,29/03/2021,amapa,2,2
+genomica_fiocruz,NA,01/03/2021,parana,1,1
+genomica_fiocruz,NA,08/03/2021,parana,1,1
+genomica_fiocruz,NA,15/03/2021,parana,2,2
+genomica_fiocruz,NA,22/03/2021,parana,2,2
+genomica_fiocruz,NA,29/03/2021,parana,2,2
+genomica_fiocruz,NA,01/03/2021,rondonia,0,0
+genomica_fiocruz,NA,08/03/2021,rondonia,0,0
+genomica_fiocruz,NA,15/03/2021,rondonia,0,0
+genomica_fiocruz,NA,22/03/2021,rondonia,1,1
+genomica_fiocruz,NA,29/03/2021,rondonia,1,1
+genomica_fiocruz,NA,01/03/2021,roraima,0,0
+genomica_fiocruz,NA,08/03/2021,roraima,0,0
+genomica_fiocruz,NA,15/03/2021,roraima,0,0
+genomica_fiocruz,NA,22/03/2021,roraima,1,1
+genomica_fiocruz,NA,29/03/2021,roraima,1,1
+genomica_fiocruz,NA,01/03/2021,tocantins,0,0
+genomica_fiocruz,NA,08/03/2021,tocantins,0,0
+genomica_fiocruz,NA,15/03/2021,tocantins,0,0
+genomica_fiocruz,NA,22/03/2021,tocantins,0,0
+genomica_fiocruz,NA,29/03/2021,tocantins,0,0
+genomica_fiocruz,NA,01/03/2021,alagoas,4,4
+genomica_fiocruz,NA,08/03/2021,alagoas,4,4
+genomica_fiocruz,NA,15/03/2021,alagoas,4,4
+genomica_fiocruz,NA,22/03/2021,alagoas,5,5
+genomica_fiocruz,NA,29/03/2021,alagoas,5,5
+genomica_fiocruz,NA,01/03/2021,bahia,3,5
+genomica_fiocruz,NA,08/03/2021,bahia,4,5
+genomica_fiocruz,NA,15/03/2021,bahia,4,5
+genomica_fiocruz,NA,22/03/2021,bahia,4,5
+genomica_fiocruz,NA,29/03/2021,bahia,4,5
+genomica_fiocruz,NA,01/03/2021,ceara,1,1
+genomica_fiocruz,NA,08/03/2021,ceara,1,1
+genomica_fiocruz,NA,15/03/2021,ceara,1,1
+genomica_fiocruz,NA,22/03/2021,ceara,1,1
+genomica_fiocruz,NA,29/03/2021,ceara,1,1
+genomica_fiocruz,NA,01/03/2021,maranhao,5,5
+genomica_fiocruz,NA,08/03/2021,maranhao,5,5
+genomica_fiocruz,NA,15/03/2021,maranhao,5,6
+genomica_fiocruz,NA,22/03/2021,maranhao,5,6
+genomica_fiocruz,NA,29/03/2021,maranhao,5,6
+genomica_fiocruz,NA,01/03/2021,paraiba,6,7
+genomica_fiocruz,NA,08/03/2021,paraiba,6,7
+genomica_fiocruz,NA,15/03/2021,paraiba,6,7
+genomica_fiocruz,NA,22/03/2021,paraiba,6,7
+genomica_fiocruz,NA,29/03/2021,paraiba,7,8
+genomica_fiocruz,NA,01/03/2021,pernambuco,0,0
+genomica_fiocruz,NA,08/03/2021,pernambuco,0,0
+genomica_fiocruz,NA,15/03/2021,pernambuco,1,1
+genomica_fiocruz,NA,22/03/2021,pernambuco,1,1
+genomica_fiocruz,NA,29/03/2021,pernambuco,1,1
+genomica_fiocruz,NA,01/03/2021,piaui,0,0
+genomica_fiocruz,NA,08/03/2021,piaui,0,0
+genomica_fiocruz,NA,15/03/2021,piaui,0,0
+genomica_fiocruz,NA,22/03/2021,piaui,0,0
+genomica_fiocruz,NA,29/03/2021,piaui,1,1
+genomica_fiocruz,NA,01/03/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,08/03/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,15/03/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,22/03/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,29/03/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,01/03/2021,sergipe,9,10
+genomica_fiocruz,NA,08/03/2021,sergipe,9,10
+genomica_fiocruz,NA,15/03/2021,sergipe,9,10
+genomica_fiocruz,NA,22/03/2021,sergipe,10,10
+genomica_fiocruz,NA,29/03/2021,sergipe,10,10
+genomica_fiocruz,NA,01/03/2021,distrito federal,0,0
+genomica_fiocruz,NA,08/03/2021,distrito federal,0,0
+genomica_fiocruz,NA,15/03/2021,distrito federal,0,0
+genomica_fiocruz,NA,22/03/2021,distrito federal,0,0
+genomica_fiocruz,NA,29/03/2021,distrito federal,0,0
+genomica_fiocruz,NA,01/03/2021,goias,44,47
+genomica_fiocruz,NA,08/03/2021,goias,44,47
+genomica_fiocruz,NA,15/03/2021,goias,44,47
+genomica_fiocruz,NA,22/03/2021,goias,44,47
+genomica_fiocruz,NA,29/03/2021,goias,44,48
+genomica_fiocruz,NA,01/03/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,08/03/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,15/03/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,22/03/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,29/03/2021,mato grosso do sul,0,1
+genomica_fiocruz,NA,01/03/2021,mato grosso,0,0
+genomica_fiocruz,NA,08/03/2021,mato grosso,0,0
+genomica_fiocruz,NA,15/03/2021,mato grosso,0,0
+genomica_fiocruz,NA,22/03/2021,mato grosso,0,0
+genomica_fiocruz,NA,29/03/2021,mato grosso,0,0
+genomica_fiocruz,NA,01/03/2021,espirito santo,0,0
+genomica_fiocruz,NA,08/03/2021,espirito santo,0,1
+genomica_fiocruz,NA,15/03/2021,espirito santo,0,1
+genomica_fiocruz,NA,22/03/2021,espirito santo,0,1
+genomica_fiocruz,NA,29/03/2021,espirito santo,1,1
+genomica_fiocruz,NA,01/03/2021,minas gerais,8,11
+genomica_fiocruz,NA,08/03/2021,minas gerais,8,11
+genomica_fiocruz,NA,15/03/2021,minas gerais,8,11
+genomica_fiocruz,NA,22/03/2021,minas gerais,9,12
+genomica_fiocruz,NA,29/03/2021,minas gerais,9,12
+genomica_fiocruz,NA,01/03/2021,rio de janeiro,52,61
+genomica_fiocruz,NA,08/03/2021,rio de janeiro,52,61
+genomica_fiocruz,NA,15/03/2021,rio de janeiro,52,61
+genomica_fiocruz,NA,22/03/2021,rio de janeiro,53,61
+genomica_fiocruz,NA,29/03/2021,rio de janeiro,53,62
+genomica_fiocruz,NA,01/03/2021,sau paulo state,296,369
+genomica_fiocruz,NA,08/03/2021,sau paulo state,296,370
+genomica_fiocruz,NA,15/03/2021,sau paulo state,296,370
+genomica_fiocruz,NA,22/03/2021,sau paulo state,296,370
+genomica_fiocruz,NA,29/03/2021,sau paulo state,296,370
+genomica_fiocruz,NA,01/03/2021,parana,8,9
+genomica_fiocruz,NA,08/03/2021,parana,8,9
+genomica_fiocruz,NA,15/03/2021,parana,8,9
+genomica_fiocruz,NA,22/03/2021,parana,8,9
+genomica_fiocruz,NA,29/03/2021,parana,8,9
+genomica_fiocruz,NA,01/03/2021,rio grande do sul,18,20
+genomica_fiocruz,NA,08/03/2021,rio grande do sul,18,20
+genomica_fiocruz,NA,15/03/2021,rio grande do sul,19,20
+genomica_fiocruz,NA,22/03/2021,rio grande do sul,19,21
+genomica_fiocruz,NA,29/03/2021,rio grande do sul,19,21
+genomica_fiocruz,NA,01/03/2021,santa catarina,15,15
+genomica_fiocruz,NA,08/03/2021,santa catarina,15,16
+genomica_fiocruz,NA,15/03/2021,santa catarina,15,16
+genomica_fiocruz,NA,22/03/2021,santa catarina,15,16
+genomica_fiocruz,NA,29/03/2021,santa catarina,16,16
+genomica_fiocruz,NA,05/04/2021,acre,0,0
+genomica_fiocruz,NA,12/04/2021,acre,0,0
+genomica_fiocruz,NA,19/04/2021,acre,0,0
+genomica_fiocruz,NA,26/04/2021,acre,0,0
+genomica_fiocruz,NA,05/04/2021,amazonas,0,0
+genomica_fiocruz,NA,12/04/2021,amazonas,0,0
+genomica_fiocruz,NA,19/04/2021,amazonas,0,0
+genomica_fiocruz,NA,26/04/2021,amazonas,0,0
+genomica_fiocruz,NA,05/04/2021,amapa,0,0
+genomica_fiocruz,NA,12/04/2021,amapa,0,0
+genomica_fiocruz,NA,19/04/2021,amapa,0,0
+genomica_fiocruz,NA,26/04/2021,amapa,0,0
+genomica_fiocruz,NA,05/04/2021,parana,8,8
+genomica_fiocruz,NA,12/04/2021,parana,8,8
+genomica_fiocruz,NA,19/04/2021,parana,8,8
+genomica_fiocruz,NA,26/04/2021,parana,8,8
+genomica_fiocruz,NA,05/04/2021,rondonia,0,0
+genomica_fiocruz,NA,12/04/2021,rondonia,0,0
+genomica_fiocruz,NA,19/04/2021,rondonia,0,0
+genomica_fiocruz,NA,26/04/2021,rondonia,0,0
+genomica_fiocruz,NA,05/04/2021,roraima,0,0
+genomica_fiocruz,NA,12/04/2021,roraima,0,0
+genomica_fiocruz,NA,19/04/2021,roraima,0,0
+genomica_fiocruz,NA,26/04/2021,roraima,0,0
+genomica_fiocruz,NA,05/04/2021,tocantins,0,0
+genomica_fiocruz,NA,12/04/2021,tocantins,0,0
+genomica_fiocruz,NA,19/04/2021,tocantins,0,0
+genomica_fiocruz,NA,26/04/2021,tocantins,0,0
+genomica_fiocruz,NA,05/04/2021,alagoas,14,14
+genomica_fiocruz,NA,12/04/2021,alagoas,14,14
+genomica_fiocruz,NA,19/04/2021,alagoas,14,14
+genomica_fiocruz,NA,26/04/2021,alagoas,14,14
+genomica_fiocruz,NA,05/04/2021,bahia,3,3
+genomica_fiocruz,NA,12/04/2021,bahia,3,3
+genomica_fiocruz,NA,19/04/2021,bahia,3,3
+genomica_fiocruz,NA,26/04/2021,bahia,3,4
+genomica_fiocruz,NA,05/04/2021,ceara,0,0
+genomica_fiocruz,NA,12/04/2021,ceara,0,0
+genomica_fiocruz,NA,19/04/2021,ceara,0,0
+genomica_fiocruz,NA,26/04/2021,ceara,0,0
+genomica_fiocruz,NA,05/04/2021,maranhao,0,0
+genomica_fiocruz,NA,12/04/2021,maranhao,0,0
+genomica_fiocruz,NA,19/04/2021,maranhao,0,0
+genomica_fiocruz,NA,26/04/2021,maranhao,0,0
+genomica_fiocruz,NA,05/04/2021,paraiba,2,3
+genomica_fiocruz,NA,12/04/2021,paraiba,2,3
+genomica_fiocruz,NA,19/04/2021,paraiba,3,3
+genomica_fiocruz,NA,26/04/2021,paraiba,3,4
+genomica_fiocruz,NA,05/04/2021,pernambuco,0,0
+genomica_fiocruz,NA,12/04/2021,pernambuco,0,0
+genomica_fiocruz,NA,19/04/2021,pernambuco,0,0
+genomica_fiocruz,NA,26/04/2021,pernambuco,0,0
+genomica_fiocruz,NA,05/04/2021,piaui,0,0
+genomica_fiocruz,NA,12/04/2021,piaui,0,0
+genomica_fiocruz,NA,19/04/2021,piaui,0,0
+genomica_fiocruz,NA,26/04/2021,piaui,0,0
+genomica_fiocruz,NA,05/04/2021,rio grande do norte,1,2
+genomica_fiocruz,NA,12/04/2021,rio grande do norte,1,2
+genomica_fiocruz,NA,19/04/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,26/04/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,05/04/2021,sergipe,0,0
+genomica_fiocruz,NA,12/04/2021,sergipe,0,0
+genomica_fiocruz,NA,19/04/2021,sergipe,0,0
+genomica_fiocruz,NA,26/04/2021,sergipe,1,1
+genomica_fiocruz,NA,05/04/2021,distrito federal,0,0
+genomica_fiocruz,NA,12/04/2021,distrito federal,0,0
+genomica_fiocruz,NA,19/04/2021,distrito federal,0,0
+genomica_fiocruz,NA,26/04/2021,distrito federal,0,0
+genomica_fiocruz,NA,05/04/2021,goias,38,40
+genomica_fiocruz,NA,12/04/2021,goias,38,40
+genomica_fiocruz,NA,19/04/2021,goias,39,41
+genomica_fiocruz,NA,26/04/2021,goias,39,41
+genomica_fiocruz,NA,05/04/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,12/04/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,19/04/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,26/04/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,05/04/2021,mato grosso,0,0
+genomica_fiocruz,NA,12/04/2021,mato grosso,0,0
+genomica_fiocruz,NA,19/04/2021,mato grosso,0,0
+genomica_fiocruz,NA,26/04/2021,mato grosso,0,0
+genomica_fiocruz,NA,05/04/2021,espirito santo,0,0
+genomica_fiocruz,NA,12/04/2021,espirito santo,0,0
+genomica_fiocruz,NA,19/04/2021,espirito santo,1,1
+genomica_fiocruz,NA,26/04/2021,espirito santo,1,1
+genomica_fiocruz,NA,05/04/2021,minas gerais,0,0
+genomica_fiocruz,NA,12/04/2021,minas gerais,0,0
+genomica_fiocruz,NA,19/04/2021,minas gerais,0,0
+genomica_fiocruz,NA,26/04/2021,minas gerais,0,0
+genomica_fiocruz,NA,05/04/2021,rio de janeiro,207,216
+genomica_fiocruz,NA,12/04/2021,rio de janeiro,207,217
+genomica_fiocruz,NA,19/04/2021,rio de janeiro,208,217
+genomica_fiocruz,NA,26/04/2021,rio de janeiro,208,217
+genomica_fiocruz,NA,05/04/2021,sau paulo state,522,594
+genomica_fiocruz,NA,12/04/2021,sau paulo state,523,595
+genomica_fiocruz,NA,19/04/2021,sau paulo state,523,595
+genomica_fiocruz,NA,26/04/2021,sau paulo state,523,595
+genomica_fiocruz,NA,05/04/2021,parana,8,8
+genomica_fiocruz,NA,12/04/2021,parana,8,9
+genomica_fiocruz,NA,19/04/2021,parana,8,9
+genomica_fiocruz,NA,26/04/2021,parana,8,9
+genomica_fiocruz,NA,05/04/2021,rio grande do sul,14,18
+genomica_fiocruz,NA,12/04/2021,rio grande do sul,14,18
+genomica_fiocruz,NA,19/04/2021,rio grande do sul,14,18
+genomica_fiocruz,NA,26/04/2021,rio grande do sul,15,18
+genomica_fiocruz,NA,05/04/2021,santa catarina,16,17
+genomica_fiocruz,NA,12/04/2021,santa catarina,16,17
+genomica_fiocruz,NA,19/04/2021,santa catarina,16,17
+genomica_fiocruz,NA,26/04/2021,santa catarina,17,17
+genomica_fiocruz,NA,03/05/2021,acre,0,0
+genomica_fiocruz,NA,10/05/2021,acre,0,0
+genomica_fiocruz,NA,17/05/2021,acre,0,0
+genomica_fiocruz,NA,24/05/2021,acre,0,0
+genomica_fiocruz,NA,31/05/2021,acre,0,0
+genomica_fiocruz,NA,03/05/2021,amazonas,0,0
+genomica_fiocruz,NA,10/05/2021,amazonas,0,0
+genomica_fiocruz,NA,17/05/2021,amazonas,0,0
+genomica_fiocruz,NA,24/05/2021,amazonas,0,0
+genomica_fiocruz,NA,31/05/2021,amazonas,1,1
+genomica_fiocruz,NA,03/05/2021,amapa,0,0
+genomica_fiocruz,NA,10/05/2021,amapa,0,0
+genomica_fiocruz,NA,17/05/2021,amapa,0,0
+genomica_fiocruz,NA,24/05/2021,amapa,0,0
+genomica_fiocruz,NA,31/05/2021,amapa,0,0
+genomica_fiocruz,NA,03/05/2021,parana,1,1
+genomica_fiocruz,NA,10/05/2021,parana,1,1
+genomica_fiocruz,NA,17/05/2021,parana,1,1
+genomica_fiocruz,NA,24/05/2021,parana,2,2
+genomica_fiocruz,NA,31/05/2021,parana,2,2
+genomica_fiocruz,NA,03/05/2021,rondonia,0,0
+genomica_fiocruz,NA,10/05/2021,rondonia,0,0
+genomica_fiocruz,NA,17/05/2021,rondonia,0,0
+genomica_fiocruz,NA,24/05/2021,rondonia,0,0
+genomica_fiocruz,NA,31/05/2021,rondonia,0,0
+genomica_fiocruz,NA,03/05/2021,roraima,0,0
+genomica_fiocruz,NA,10/05/2021,roraima,0,0
+genomica_fiocruz,NA,17/05/2021,roraima,0,0
+genomica_fiocruz,NA,24/05/2021,roraima,0,0
+genomica_fiocruz,NA,31/05/2021,roraima,0,0
+genomica_fiocruz,NA,03/05/2021,tocantins,0,0
+genomica_fiocruz,NA,10/05/2021,tocantins,0,0
+genomica_fiocruz,NA,17/05/2021,tocantins,0,0
+genomica_fiocruz,NA,24/05/2021,tocantins,0,0
+genomica_fiocruz,NA,31/05/2021,tocantins,0,0
+genomica_fiocruz,NA,03/05/2021,alagoas,0,0
+genomica_fiocruz,NA,10/05/2021,alagoas,0,0
+genomica_fiocruz,NA,17/05/2021,alagoas,0,0
+genomica_fiocruz,NA,24/05/2021,alagoas,0,0
+genomica_fiocruz,NA,31/05/2021,alagoas,1,1
+genomica_fiocruz,NA,03/05/2021,bahia,1,1
+genomica_fiocruz,NA,10/05/2021,bahia,1,1
+genomica_fiocruz,NA,17/05/2021,bahia,1,1
+genomica_fiocruz,NA,24/05/2021,bahia,2,2
+genomica_fiocruz,NA,31/05/2021,bahia,2,2
+genomica_fiocruz,NA,03/05/2021,ceara,0,0
+genomica_fiocruz,NA,10/05/2021,ceara,0,0
+genomica_fiocruz,NA,17/05/2021,ceara,0,0
+genomica_fiocruz,NA,24/05/2021,ceara,0,0
+genomica_fiocruz,NA,31/05/2021,ceara,1,1
+genomica_fiocruz,NA,03/05/2021,maranhao,0,0
+genomica_fiocruz,NA,10/05/2021,maranhao,0,1
+genomica_fiocruz,NA,17/05/2021,maranhao,1,1
+genomica_fiocruz,NA,24/05/2021,maranhao,1,1
+genomica_fiocruz,NA,31/05/2021,maranhao,1,1
+genomica_fiocruz,NA,03/05/2021,paraiba,0,0
+genomica_fiocruz,NA,10/05/2021,paraiba,0,0
+genomica_fiocruz,NA,17/05/2021,paraiba,0,0
+genomica_fiocruz,NA,24/05/2021,paraiba,1,1
+genomica_fiocruz,NA,31/05/2021,paraiba,1,1
+genomica_fiocruz,NA,03/05/2021,pernambuco,0,0
+genomica_fiocruz,NA,10/05/2021,pernambuco,0,0
+genomica_fiocruz,NA,17/05/2021,pernambuco,0,0
+genomica_fiocruz,NA,24/05/2021,pernambuco,0,0
+genomica_fiocruz,NA,31/05/2021,pernambuco,0,0
+genomica_fiocruz,NA,03/05/2021,piaui,0,0
+genomica_fiocruz,NA,10/05/2021,piaui,0,0
+genomica_fiocruz,NA,17/05/2021,piaui,0,0
+genomica_fiocruz,NA,24/05/2021,piaui,0,0
+genomica_fiocruz,NA,31/05/2021,piaui,0,0
+genomica_fiocruz,NA,03/05/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,10/05/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,17/05/2021,rio grande do norte,2,2
+genomica_fiocruz,NA,24/05/2021,rio grande do norte,3,3
+genomica_fiocruz,NA,31/05/2021,rio grande do norte,3,3
+genomica_fiocruz,NA,03/05/2021,sergipe,0,0
+genomica_fiocruz,NA,10/05/2021,sergipe,0,0
+genomica_fiocruz,NA,17/05/2021,sergipe,0,0
+genomica_fiocruz,NA,24/05/2021,sergipe,0,0
+genomica_fiocruz,NA,31/05/2021,sergipe,0,0
+genomica_fiocruz,NA,03/05/2021,distrito federal,0,0
+genomica_fiocruz,NA,10/05/2021,distrito federal,0,0
+genomica_fiocruz,NA,17/05/2021,distrito federal,0,0
+genomica_fiocruz,NA,24/05/2021,distrito federal,0,0
+genomica_fiocruz,NA,31/05/2021,distrito federal,0,0
+genomica_fiocruz,NA,03/05/2021,goias,19,23
+genomica_fiocruz,NA,10/05/2021,goias,19,23
+genomica_fiocruz,NA,17/05/2021,goias,19,23
+genomica_fiocruz,NA,24/05/2021,goias,19,23
+genomica_fiocruz,NA,31/05/2021,goias,20,23
+genomica_fiocruz,NA,03/05/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,10/05/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,17/05/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,24/05/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,31/05/2021,mato grosso do sul,0,0
+genomica_fiocruz,NA,03/05/2021,mato grosso,0,0
+genomica_fiocruz,NA,10/05/2021,mato grosso,0,0
+genomica_fiocruz,NA,17/05/2021,mato grosso,0,0
+genomica_fiocruz,NA,24/05/2021,mato grosso,0,0
+genomica_fiocruz,NA,31/05/2021,mato grosso,0,0
+genomica_fiocruz,NA,03/05/2021,espirito santo,0,0
+genomica_fiocruz,NA,10/05/2021,espirito santo,0,0
+genomica_fiocruz,NA,17/05/2021,espirito santo,0,0
+genomica_fiocruz,NA,24/05/2021,espirito santo,0,1
+genomica_fiocruz,NA,31/05/2021,espirito santo,1,1
+genomica_fiocruz,NA,03/05/2021,minas gerais,0,0
+genomica_fiocruz,NA,10/05/2021,minas gerais,0,0
+genomica_fiocruz,NA,17/05/2021,minas gerais,0,1
+genomica_fiocruz,NA,24/05/2021,minas gerais,1,1
+genomica_fiocruz,NA,31/05/2021,minas gerais,1,1
+genomica_fiocruz,NA,03/05/2021,rio de janeiro,107,118
+genomica_fiocruz,NA,10/05/2021,rio de janeiro,107,118
+genomica_fiocruz,NA,17/05/2021,rio de janeiro,107,118
+genomica_fiocruz,NA,24/05/2021,rio de janeiro,108,118
+genomica_fiocruz,NA,31/05/2021,rio de janeiro,108,118
+genomica_fiocruz,NA,03/05/2021,sau paulo state,263,446
+genomica_fiocruz,NA,10/05/2021,sau paulo state,264,446
+genomica_fiocruz,NA,17/05/2021,sau paulo state,264,446
+genomica_fiocruz,NA,24/05/2021,sau paulo state,264,447
+genomica_fiocruz,NA,31/05/2021,sau paulo state,264,447
+genomica_fiocruz,NA,03/05/2021,parana,0,0
+genomica_fiocruz,NA,10/05/2021,parana,0,0
+genomica_fiocruz,NA,17/05/2021,parana,0,0
+genomica_fiocruz,NA,24/05/2021,parana,0,0
+genomica_fiocruz,NA,31/05/2021,parana,0,0
+genomica_fiocruz,NA,03/05/2021,rio grande do sul,0,0
+genomica_fiocruz,NA,10/05/2021,rio grande do sul,0,0
+genomica_fiocruz,NA,17/05/2021,rio grande do sul,0,0
+genomica_fiocruz,NA,24/05/2021,rio grande do sul,0,0
+genomica_fiocruz,NA,31/05/2021,rio grande do sul,0,1
+genomica_fiocruz,NA,03/05/2021,santa catarina,3,3
+genomica_fiocruz,NA,10/05/2021,santa catarina,3,3
+genomica_fiocruz,NA,17/05/2021,santa catarina,4,4
+genomica_fiocruz,NA,24/05/2021,santa catarina,4,4
+genomica_fiocruz,NA,31/05/2021,santa catarina,4,4
+GISAID_darlan,19/11/2020,15/11/2020,amapa,0,2
+GISAID_darlan,26/11/2020,22/11/2020,amapa,0,3
+GISAID_darlan,04/12/2020,29/11/2020,amapa,0,4
+GISAID_darlan,07/12/2020,06/12/2020,amapa,0,4
+GISAID_darlan,15/12/2020,13/12/2020,amapa,0,4
+GISAID_darlan,26/12/2020,20/12/2020,amapa,0,4
+GISAID_darlan,02/01/2021,27/12/2020,amapa,0,4
+GISAID_darlan,07/01/2021,03/01/2021,amapa,0,5
+GISAID_darlan,14/01/2021,10/01/2021,amapa,1,6
+GISAID_darlan,18/01/2021,17/01/2021,amapa,1,6
+GISAID_darlan,30/01/2021,24/01/2021,amapa,2,5
+GISAID_darlan,02/02/2021,31/01/2021,amapa,1,5
+GISAID_darlan,08/02/2021,07/02/2021,amapa,4,8
+GISAID_darlan,15/02/2021,14/02/2021,amapa,3,3
+GISAID_darlan,23/02/2021,21/02/2021,amapa,4,6
+GISAID_darlan,04/03/2021,28/02/2021,amapa,4,4
+GISAID_darlan,12/03/2021,07/03/2021,amapa,1,1
+GISAID_darlan,16/03/2021,14/03/2021,amapa,2,2
+GISAID_darlan,05/11/2020,01/11/2020,amazonas,0,16
+GISAID_darlan,12/11/2020,08/11/2020,amazonas,0,15
+GISAID_darlan,17/11/2020,15/11/2020,amazonas,0,8
+GISAID_darlan,24/11/2020,22/11/2020,amazonas,0,3
+GISAID_darlan,02/12/2020,29/11/2020,amazonas,1,7
+GISAID_darlan,09/12/2020,06/12/2020,amazonas,2,15
+GISAID_darlan,17/12/2020,13/12/2020,amazonas,21,64
+GISAID_darlan,22/12/2020,20/12/2020,amazonas,51,98
+GISAID_darlan,28/12/2020,27/12/2020,amazonas,26,40
+GISAID_darlan,05/01/2021,03/01/2021,amazonas,63,78
+GISAID_darlan,13/01/2021,10/01/2021,amazonas,17,18
+GISAID_darlan,19/01/2021,17/01/2021,amazonas,24,25
+GISAID_darlan,26/01/2021,24/01/2021,amazonas,5,5
+GISAID_darlan,09/02/2021,07/02/2021,amazonas,1,1
+GISAID_darlan,15/02/2021,14/02/2021,amazonas,1,1
+GISAID_darlan,22/02/2021,21/02/2021,amazonas,2,2
+GISAID_darlan,02/03/2021,28/02/2021,amazonas,3,3
+GISAID_darlan,23/03/2021,21/03/2021,amazonas,2,2
+GISAID_darlan,06/11/2020,01/11/2020,bahia,0,1
+GISAID_darlan,12/11/2020,08/11/2020,bahia,0,6
+GISAID_darlan,25/11/2020,22/11/2020,bahia,0,2
+GISAID_darlan,09/12/2020,06/12/2020,bahia,0,3
+GISAID_darlan,15/12/2020,13/12/2020,bahia,0,3
+GISAID_darlan,22/12/2020,20/12/2020,bahia,0,2
+GISAID_darlan,28/12/2020,27/12/2020,bahia,5,7
+GISAID_darlan,07/01/2021,03/01/2021,bahia,1,14
+GISAID_darlan,12/01/2021,10/01/2021,bahia,0,9
+GISAID_darlan,21/01/2021,17/01/2021,bahia,6,18
+GISAID_darlan,26/01/2021,24/01/2021,bahia,6,28
+GISAID_darlan,03/02/2021,31/01/2021,bahia,4,34
+GISAID_darlan,10/02/2021,07/02/2021,bahia,16,45
+GISAID_darlan,16/02/2021,14/02/2021,bahia,11,28
+GISAID_darlan,24/02/2021,21/02/2021,bahia,14,21
+GISAID_darlan,03/03/2021,28/02/2021,bahia,26,37
+GISAID_darlan,11/03/2021,07/03/2021,bahia,7,7
+GISAID_darlan,16/03/2021,14/03/2021,bahia,5,5
+GISAID_darlan,23/03/2021,21/03/2021,bahia,12,14
+GISAID_darlan,30/03/2021,28/03/2021,bahia,1,1
+GISAID_darlan,03/12/2020,29/11/2020,goias,0,8
+GISAID_darlan,08/12/2020,06/12/2020,goias,0,8
+GISAID_darlan,16/12/2020,13/12/2020,goias,0,9
+GISAID_darlan,23/12/2020,20/12/2020,goias,0,11
+GISAID_darlan,29/12/2020,27/12/2020,goias,0,19
+GISAID_darlan,05/01/2021,03/01/2021,goias,1,29
+GISAID_darlan,13/01/2021,10/01/2021,goias,4,26
+GISAID_darlan,19/01/2021,17/01/2021,goias,29,44
+GISAID_darlan,26/01/2021,24/01/2021,goias,9,28
+GISAID_darlan,04/02/2021,31/01/2021,goias,13,30
+GISAID_darlan,10/02/2021,07/02/2021,goias,24,42
+GISAID_darlan,17/02/2021,14/02/2021,goias,35,48
+GISAID_darlan,24/02/2021,21/02/2021,goias,39,50
+GISAID_darlan,04/03/2021,28/02/2021,goias,81,96
+GISAID_darlan,09/03/2021,07/03/2021,goias,30,35
+GISAID_darlan,16/03/2021,14/03/2021,goias,36,40
+GISAID_darlan,24/03/2021,21/03/2021,goias,25,27
+GISAID_darlan,31/03/2021,28/03/2021,goias,59,62
+GISAID_darlan,18/11/2020,15/11/2020,maranhao,0,2
+GISAID_darlan,26/11/2020,22/11/2020,maranhao,0,1
+GISAID_darlan,30/11/2020,29/11/2020,maranhao,0,3
+GISAID_darlan,10/12/2020,06/12/2020,maranhao,0,3
+GISAID_darlan,17/12/2020,13/12/2020,maranhao,0,1
+GISAID_darlan,22/12/2020,20/12/2020,maranhao,0,4
+GISAID_darlan,31/12/2020,27/12/2020,maranhao,0,8
+GISAID_darlan,04/01/2021,03/01/2021,maranhao,1,14
+GISAID_darlan,14/01/2021,10/01/2021,maranhao,0,11
+GISAID_darlan,20/01/2021,17/01/2021,maranhao,4,11
+GISAID_darlan,27/01/2021,24/01/2021,maranhao,3,8
+GISAID_darlan,04/02/2021,31/01/2021,maranhao,6,14
+GISAID_darlan,09/02/2021,07/02/2021,maranhao,8,15
+GISAID_darlan,18/02/2021,14/02/2021,maranhao,6,14
+GISAID_darlan,23/02/2021,21/02/2021,maranhao,8,8
+GISAID_darlan,02/03/2021,28/02/2021,maranhao,6,9
+GISAID_darlan,09/03/2021,07/03/2021,maranhao,10,10
+GISAID_darlan,19/03/2021,14/03/2021,maranhao,4,5
+GISAID_darlan,25/03/2021,21/03/2021,maranhao,3,4
+GISAID_darlan,05/11/2020,01/11/2020,minas gerais,0,4
+GISAID_darlan,11/11/2020,08/11/2020,minas gerais,0,2
+GISAID_darlan,17/11/2020,15/11/2020,minas gerais,0,4
+GISAID_darlan,24/11/2020,22/11/2020,minas gerais,0,10
+GISAID_darlan,03/12/2020,29/11/2020,minas gerais,0,11
+GISAID_darlan,09/12/2020,06/12/2020,minas gerais,0,9
+GISAID_darlan,16/12/2020,13/12/2020,minas gerais,0,8
+GISAID_darlan,21/12/2020,20/12/2020,minas gerais,0,3
+GISAID_darlan,29/12/2020,27/12/2020,minas gerais,0,4
+GISAID_darlan,07/01/2021,03/01/2021,minas gerais,0,11
+GISAID_darlan,13/01/2021,10/01/2021,minas gerais,0,13
+GISAID_darlan,20/01/2021,17/01/2021,minas gerais,0,16
+GISAID_darlan,28/01/2021,24/01/2021,minas gerais,2,10
+GISAID_darlan,03/02/2021,31/01/2021,minas gerais,5,31
+GISAID_darlan,09/02/2021,07/02/2021,minas gerais,1,9
+GISAID_darlan,15/02/2021,14/02/2021,minas gerais,13,41
+GISAID_darlan,26/02/2021,21/02/2021,minas gerais,31,63
+GISAID_darlan,03/03/2021,28/02/2021,minas gerais,28,42
+GISAID_darlan,09/03/2021,07/03/2021,minas gerais,9,12
+GISAID_darlan,14/03/2021,14/03/2021,minas gerais,8,11
+GISAID_darlan,26/03/2021,21/03/2021,minas gerais,5,6
+GISAID_darlan,31/03/2021,28/03/2021,minas gerais,2,2
+GISAID_darlan,04/11/2020,01/11/2020,paraiba,0,6
+GISAID_darlan,10/11/2020,08/11/2020,paraiba,0,10
+GISAID_darlan,17/11/2020,15/11/2020,paraiba,0,5
+GISAID_darlan,26/11/2020,22/11/2020,paraiba,0,6
+GISAID_darlan,02/12/2020,29/11/2020,paraiba,0,10
+GISAID_darlan,10/12/2020,06/12/2020,paraiba,0,13
+GISAID_darlan,16/12/2020,13/12/2020,paraiba,0,3
+GISAID_darlan,21/12/2020,20/12/2020,paraiba,0,5
+GISAID_darlan,30/12/2020,27/12/2020,paraiba,0,3
+GISAID_darlan,07/01/2021,03/01/2021,paraiba,1,8
+GISAID_darlan,12/01/2021,10/01/2021,paraiba,1,16
+GISAID_darlan,21/01/2021,17/01/2021,paraiba,1,6
+GISAID_darlan,26/01/2021,24/01/2021,paraiba,2,10
+GISAID_darlan,02/02/2021,31/01/2021,paraiba,1,5
+GISAID_darlan,10/02/2021,07/02/2021,paraiba,2,7
+GISAID_darlan,17/02/2021,14/02/2021,paraiba,5,5
+GISAID_darlan,22/02/2021,21/02/2021,paraiba,7,10
+GISAID_darlan,01/03/2021,28/02/2021,paraiba,8,10
+GISAID_darlan,10/03/2021,07/03/2021,paraiba,6,6
+GISAID_darlan,19/03/2021,14/03/2021,paraiba,6,7
+GISAID_darlan,26/03/2021,21/03/2021,paraiba,2,2
+GISAID_darlan,30/03/2021,28/03/2021,paraiba,10,11
+GISAID_darlan,03/11/2020,01/11/2020,parana,0,1
+GISAID_darlan,10/11/2020,08/11/2020,parana,0,7
+GISAID_darlan,18/11/2020,15/11/2020,parana,0,12
+GISAID_darlan,25/11/2020,22/11/2020,parana,0,10
+GISAID_darlan,01/12/2020,29/11/2020,parana,0,8
+GISAID_darlan,08/12/2020,06/12/2020,parana,0,12
+GISAID_darlan,17/12/2020,13/12/2020,parana,0,8
+GISAID_darlan,22/12/2020,20/12/2020,parana,0,6
+GISAID_darlan,29/12/2020,27/12/2020,parana,1,4
+GISAID_darlan,07/01/2021,03/01/2021,parana,0,5
+GISAID_darlan,12/01/2021,10/01/2021,parana,0,3
+GISAID_darlan,17/01/2021,17/01/2021,parana,2,5
+GISAID_darlan,25/01/2021,24/01/2021,parana,1,5
+GISAID_darlan,03/02/2021,31/01/2021,parana,1,3
+GISAID_darlan,08/02/2021,07/02/2021,parana,1,4
+GISAID_darlan,18/02/2021,14/02/2021,parana,5,6
+GISAID_darlan,27/02/2021,21/02/2021,parana,3,5
+GISAID_darlan,02/03/2021,28/02/2021,parana,8,10
+GISAID_darlan,09/03/2021,07/03/2021,parana,9,11
+GISAID_darlan,16/03/2021,14/03/2021,parana,14,16
+GISAID_darlan,26/03/2021,21/03/2021,parana,5,6
+GISAID_darlan,30/03/2021,28/03/2021,parana,13,13
+GISAID_darlan,04/11/2020,01/11/2020,rio de janeiro,0,50
+GISAID_darlan,11/11/2020,08/11/2020,rio de janeiro,0,8
+GISAID_darlan,19/11/2020,15/11/2020,rio de janeiro,2,8
+GISAID_darlan,26/11/2020,22/11/2020,rio de janeiro,0,5
+GISAID_darlan,03/12/2020,29/11/2020,rio de janeiro,0,9
+GISAID_darlan,11/12/2020,06/12/2020,rio de janeiro,0,31
+GISAID_darlan,18/12/2020,13/12/2020,rio de janeiro,0,38
+GISAID_darlan,22/12/2020,20/12/2020,rio de janeiro,0,18
+GISAID_darlan,28/12/2020,27/12/2020,rio de janeiro,0,34
+GISAID_darlan,05/01/2021,03/01/2021,rio de janeiro,1,47
+GISAID_darlan,12/01/2021,10/01/2021,rio de janeiro,1,35
+GISAID_darlan,19/01/2021,17/01/2021,rio de janeiro,1,49
+GISAID_darlan,27/01/2021,24/01/2021,rio de janeiro,1,45
+GISAID_darlan,03/02/2021,31/01/2021,rio de janeiro,7,51
+GISAID_darlan,09/02/2021,07/02/2021,rio de janeiro,24,48
+GISAID_darlan,18/02/2021,14/02/2021,rio de janeiro,47,64
+GISAID_darlan,23/02/2021,21/02/2021,rio de janeiro,30,52
+GISAID_darlan,02/03/2021,28/02/2021,rio de janeiro,33,47
+GISAID_darlan,10/03/2021,07/03/2021,rio de janeiro,47,68
+GISAID_darlan,16/03/2021,14/03/2021,rio de janeiro,27,39
+GISAID_darlan,25/03/2021,21/03/2021,rio de janeiro,254,275
+GISAID_darlan,30/03/2021,28/03/2021,rio de janeiro,33,35
+GISAID_darlan,01/11/2020,01/11/2020,rio grande do norte,0,6
+GISAID_darlan,12/11/2020,08/11/2020,rio grande do norte,0,1
+GISAID_darlan,18/11/2020,15/11/2020,rio grande do norte,0,2
+GISAID_darlan,25/11/2020,22/11/2020,rio grande do norte,0,5
+GISAID_darlan,01/12/2020,29/11/2020,rio grande do norte,0,11
+GISAID_darlan,10/12/2020,06/12/2020,rio grande do norte,0,2
+GISAID_darlan,17/12/2020,13/12/2020,rio grande do norte,0,1
+GISAID_darlan,21/12/2020,20/12/2020,rio grande do norte,0,1
+GISAID_darlan,28/12/2020,27/12/2020,rio grande do norte,0,9
+GISAID_darlan,08/01/2021,03/01/2021,rio grande do norte,0,3
+GISAID_darlan,11/01/2021,10/01/2021,rio grande do norte,0,3
+GISAID_darlan,20/01/2021,17/01/2021,rio grande do norte,0,2
+GISAID_darlan,26/01/2021,24/01/2021,rio grande do norte,12,31
+GISAID_darlan,01/02/2021,31/01/2021,rio grande do norte,15,31
+GISAID_darlan,08/02/2021,07/02/2021,rio grande do norte,0,1
+GISAID_darlan,17/02/2021,14/02/2021,rio grande do norte,1,2
+GISAID_darlan,26/02/2021,21/02/2021,rio grande do norte,5,6
+GISAID_darlan,02/03/2021,28/02/2021,rio grande do norte,9,9
+GISAID_darlan,30/03/2021,28/03/2021,rio grande do norte,1,1
+GISAID_darlan,04/11/2020,01/11/2020,rio grande do sul,0,11
+GISAID_darlan,11/11/2020,08/11/2020,rio grande do sul,0,13
+GISAID_darlan,18/11/2020,15/11/2020,rio grande do sul,1,30
+GISAID_darlan,25/11/2020,22/11/2020,rio grande do sul,0,108
+GISAID_darlan,30/11/2020,29/11/2020,rio grande do sul,1,26
+GISAID_darlan,09/12/2020,06/12/2020,rio grande do sul,0,15
+GISAID_darlan,15/12/2020,13/12/2020,rio grande do sul,0,3
+GISAID_darlan,23/12/2020,20/12/2020,rio grande do sul,0,7
+GISAID_darlan,31/12/2020,27/12/2020,rio grande do sul,0,18
+GISAID_darlan,06/01/2021,03/01/2021,rio grande do sul,0,18
+GISAID_darlan,14/01/2021,10/01/2021,rio grande do sul,1,9
+GISAID_darlan,20/01/2021,17/01/2021,rio grande do sul,0,14
+GISAID_darlan,27/01/2021,24/01/2021,rio grande do sul,2,11
+GISAID_darlan,03/02/2021,31/01/2021,rio grande do sul,4,27
+GISAID_darlan,09/02/2021,07/02/2021,rio grande do sul,8,30
+GISAID_darlan,18/02/2021,14/02/2021,rio grande do sul,1,7
+GISAID_darlan,24/02/2021,21/02/2021,rio grande do sul,15,18
+GISAID_darlan,03/03/2021,28/02/2021,rio grande do sul,11,15
+GISAID_darlan,11/03/2021,07/03/2021,rio grande do sul,40,51
+GISAID_darlan,16/03/2021,14/03/2021,rio grande do sul,33,41
+GISAID_darlan,24/03/2021,21/03/2021,rio grande do sul,6,6
+GISAID_darlan,31/03/2021,28/03/2021,rio grande do sul,4,7
+GISAID_darlan,05/01/2021,03/01/2021,rondonia,0,3
+GISAID_darlan,14/01/2021,10/01/2021,rondonia,0,5
+GISAID_darlan,18/01/2021,17/01/2021,rondonia,5,10
+GISAID_darlan,25/01/2021,24/01/2021,rondonia,0,1
+GISAID_darlan,10/02/2021,07/02/2021,rondonia,2,3
+GISAID_darlan,25/02/2021,21/02/2021,rondonia,2,2
+GISAID_darlan,02/03/2021,28/02/2021,rondonia,2,2
+GISAID_darlan,04/11/2020,01/11/2020,santa catarina,0,1
+GISAID_darlan,17/11/2020,15/11/2020,santa catarina,0,5
+GISAID_darlan,08/12/2020,06/12/2020,santa catarina,0,5
+GISAID_darlan,16/12/2020,13/12/2020,santa catarina,1,4
+GISAID_darlan,25/12/2020,20/12/2020,santa catarina,0,14
+GISAID_darlan,29/12/2020,27/12/2020,santa catarina,0,32
+GISAID_darlan,08/01/2021,03/01/2021,santa catarina,1,20
+GISAID_darlan,12/01/2021,10/01/2021,santa catarina,2,26
+GISAID_darlan,19/01/2021,17/01/2021,santa catarina,4,14
+GISAID_darlan,28/01/2021,24/01/2021,santa catarina,11,21
+GISAID_darlan,02/02/2021,31/01/2021,santa catarina,11,24
+GISAID_darlan,09/02/2021,07/02/2021,santa catarina,18,29
+GISAID_darlan,15/02/2021,14/02/2021,santa catarina,59,66
+GISAID_darlan,23/02/2021,21/02/2021,santa catarina,30,39
+GISAID_darlan,01/03/2021,28/02/2021,santa catarina,23,32
+GISAID_darlan,09/03/2021,07/03/2021,santa catarina,13,15
+GISAID_darlan,18/03/2021,14/03/2021,santa catarina,19,21
+GISAID_darlan,23/03/2021,21/03/2021,santa catarina,11,12
+GISAID_darlan,31/03/2021,28/03/2021,santa catarina,21,22
+GISAID_darlan,03/11/2020,01/11/2020,sao paulo,1,6
+GISAID_darlan,11/11/2020,08/11/2020,sao paulo,0,28
+GISAID_darlan,20/11/2020,15/11/2020,sao paulo,0,33
+GISAID_darlan,24/11/2020,22/11/2020,sao paulo,0,28
+GISAID_darlan,02/12/2020,29/11/2020,sao paulo,0,13
+GISAID_darlan,09/12/2020,06/12/2020,sao paulo,0,36
+GISAID_darlan,15/12/2020,13/12/2020,sao paulo,0,10
+GISAID_darlan,23/12/2020,20/12/2020,sao paulo,0,18
+GISAID_darlan,01/01/2021,27/12/2020,sao paulo,0,11
+GISAID_darlan,06/01/2021,03/01/2021,sao paulo,5,53
+GISAID_darlan,15/01/2021,10/01/2021,sao paulo,15,99
+GISAID_darlan,20/01/2021,17/01/2021,sao paulo,13,75
+GISAID_darlan,27/01/2021,24/01/2021,sao paulo,14,86
+GISAID_darlan,03/02/2021,31/01/2021,sao paulo,23,119
+GISAID_darlan,09/02/2021,07/02/2021,sao paulo,58,168
+GISAID_darlan,17/02/2021,14/02/2021,sao paulo,46,100
+GISAID_darlan,26/02/2021,21/02/2021,sao paulo,79,125
+GISAID_darlan,02/03/2021,28/02/2021,sao paulo,98,147
+GISAID_darlan,09/03/2021,07/03/2021,sao paulo,203,265
+GISAID_darlan,16/03/2021,14/03/2021,sao paulo,190,230
+GISAID_darlan,22/03/2021,21/03/2021,sao paulo,720,882
+GISAID_darlan,30/03/2021,28/03/2021,sao paulo,355,428
